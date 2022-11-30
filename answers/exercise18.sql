@@ -1,0 +1,1 @@
+--update Students set City = 'Edinburgh', Country = 'Scotland' where id = 35;
